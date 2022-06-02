@@ -1,4 +1,4 @@
-## 1.2.3
+## 1.2.6
 * Minor Bug fixes
 ## 1.2.0
 * Added More Icons In Lighter Style Type, Note: IconifyOutlined is replaced to IconifyLighter.

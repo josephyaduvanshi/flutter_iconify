@@ -1050,11 +1050,11 @@ class IconifyLighter {
       IconData(0xea06, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData yard_sale =
       IconData(0xea07, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData _18_plus =
+  static const IconData EighteenPlus =
       IconData(0xea08, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData _32_bit =
+  static const IconData Bit_32 =
       IconData(0xea09, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData _64_bit =
+  static const IconData Bit_64 =
       IconData(0xea0a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData aac =
       IconData(0xea0b, fontFamily: _kFontFam, fontPackage: _kFontPkg);

@@ -6,7 +6,7 @@ import 'package:flutter/widgets.dart';
 class IconifyMaterial {
   IconifyMaterial._();
 
-  /// Used to generate IconData for Ionicons
+  /// Invoked by Iconify to produce icon data
   /// Go to https://github.com/josephyaduvanshi/flutter_iconify for more information.
   static const _kFontFam = 'IconifyMaterial';
   static const String _kFontPkg = "flutter_iconify";

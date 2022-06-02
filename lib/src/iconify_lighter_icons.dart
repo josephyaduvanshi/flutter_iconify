@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 class IconifyLighter {
   IconifyLighter._();
 
-  /// Used to generate IconData for Ionicons
+  /// Invoked by IconifyIcons to produce icon data
   /// Go to https://github.com/josephyaduvanshi/flutter_iconify for more information.
   static const _kFontFam = 'IconifyLighter';
   static const String _kFontPkg = "flutter_iconify";

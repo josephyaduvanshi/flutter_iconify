@@ -1,6 +1,6 @@
 name: flutter_iconify
 description:  Flutter Iconify(flutter_iconify) has more than 1000 free icons in a variety of styles (such as Lighther, Bolder, glyph, and many more).
-version: 1.2.6
+version: 1.3.5
 homepage: https://github.com/josephyaduvanshi/flutter_iconify
 
 environment:
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^1.1.0
 
 dev_dependencies:
   flutter_test:
@@ -46,6 +47,9 @@ flutter:
     - family: IconifyMaterial
       fonts:
         - asset: fonts/IconifyMaterial.ttf
+    - family: IconifyBolder
+      fonts:
+        - asset: fonts/IconifyBolder.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #

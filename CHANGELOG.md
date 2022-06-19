@@ -1,3 +1,13 @@
+## 1.3.5
+* Fixed some bugs and removed useless icons
+## 1.3.3
+* Added some bolder Icons
+## 1.3.2
+* Added some bolder Icons
+## 1.3.1
+* Small Size Icon bug fixed
+## 1.3.0
+* Added Colored and Bolder Icons
 ## 1.2.6
 * Minor Bug fixes
 ## 1.2.0
